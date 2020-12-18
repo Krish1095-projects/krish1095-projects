@@ -2,6 +2,7 @@
 
 <!--
 **Krish1095-projects/krish1095-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ... Text analytics using Neural Networks
 
 Here are some ideas to get you started:
 
