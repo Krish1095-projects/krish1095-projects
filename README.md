@@ -1,17 +1,9 @@
-### Hi there 👋
+### I'm [Krishna Kumar](https://github.com/Krish1095-projects/), a budding data analyst and a fresher 👋
 
-<!--
-**Krish1095-projects/krish1095-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning ... Text analytics using Neural Networks
+- 🔭 I’m currently working on Text Analytics and Machine Learning 
+- 🌱 I’m currently learning Neural networks and AI
+- 💬 Ask me about Machine Learning Using Python or Text analytics 
+- 📫 How to reach me: [@Gmail](krish.kk.1095@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm also your typical gamer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Text analytics using Neural Networks
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
