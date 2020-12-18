@@ -1,4 +1,4 @@
-### Hi everyone 👋, I'm [Krishna Kumar](https://github.com/Krish1095-projects/), a budding data analyst and a fresher
+### Hi everyone 👋, I'm [Krishna Kumar](https://github.com/Krish1095-projects/), a budding data analyst 
 
 - 🔭 I’m currently working on Text Analytics and Machine Learning 
 - 🌱 I’m currently learning Neural Networks and AI
